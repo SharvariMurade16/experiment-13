@@ -74,5 +74,7 @@ int main() {
 
 ### Program Outputs
 1)<img width="308" alt="Screenshot 2024-09-15 at 9 27 30 PM" src="https://github.com/user-attachments/assets/29d28af4-e250-4426-8cb3-24f76f328aa0"><br>
-2)<img width="304" alt="Screenshot 2024-09-15 at 9 34 16 PM" src="https://github.com/user-attachments/assets/d4fff890-ba99-440c-ac40-8a0b1385bb7a">
+2)<img width="304" alt="Screenshot 2024-09-15 at 9 34 16 PM" src="https://github.com/user-attachments/assets/d4fff890-ba99-440c-ac40-8a0b1385bb7a"><br>
+3)<img width="310" alt="Screenshot 2024-09-15 at 10 20 28 PM" src="https://github.com/user-attachments/assets/3d4cda17-45a2-483c-b991-6fd94ec53210"><br>
+
 

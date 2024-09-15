@@ -1,4 +1,4 @@
-# experiment-13
+# Experiment-13
 
 ## AIM 
 To learn about inheritance and its type in c++.
